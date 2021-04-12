@@ -1,7 +1,5 @@
 ### Here is what I'm working on! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Python/R
 - 🌱 I’m currently learning ... Visualization tools
 - 👯 I’m looking to collaborate on ... Data science
